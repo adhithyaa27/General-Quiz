@@ -1,0 +1,28 @@
+*{
+  overflow: hidden;
+  
+}
+.frontpage{
+  background-color: rgb(135, 140, 225);
+  height: 100vh;
+}
+
+
+.frontpage{
+  max-width: 2000px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+#logo{
+  position: relative;
+  height: 60vh;
+}
+
+#start{
+  position: relative;
+}
+
+
+

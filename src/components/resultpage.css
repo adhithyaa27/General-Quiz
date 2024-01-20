@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:ital,wght@0,300;0,400;1,300;1,400;1,700&family=Days+One&family=Krona+One&display=swap');
+
+
+body{
+    background-color: rgb(135, 140, 225);
+}
+
+#result{
+    font-family: 'Krona One', sans-serif;
+    color: white;
+    font-size: 60px;
+}
+
+#finalresult{
+    font-family: 'Krona One', sans-serif;
+    color:  rgb(225, 100, 100);
+    background-color: black ;
+    font-size: 50px;
+    width: 600px;
+    height: 80px;
+    position: relative;
+    left: 400px;
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#restart{
+    height: 100px;
+    margin-top: 10px;
+}
